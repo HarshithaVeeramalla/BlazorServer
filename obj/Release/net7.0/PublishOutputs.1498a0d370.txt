@@ -1,0 +1,7 @@
+C:\Users\v-harshithav\source\repos\Nov\BlazorServer\BlazorServer\obj\Release\net7.0\PubTmp\Out\BlazorServer.exe
+C:\Users\v-harshithav\source\repos\Nov\BlazorServer\BlazorServer\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\v-harshithav\source\repos\Nov\BlazorServer\BlazorServer\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\v-harshithav\source\repos\Nov\BlazorServer\BlazorServer\obj\Release\net7.0\PubTmp\Out\BlazorServer.dll
+C:\Users\v-harshithav\source\repos\Nov\BlazorServer\BlazorServer\obj\Release\net7.0\PubTmp\Out\BlazorServer.deps.json
+C:\Users\v-harshithav\source\repos\Nov\BlazorServer\BlazorServer\obj\Release\net7.0\PubTmp\Out\BlazorServer.runtimeconfig.json
+C:\Users\v-harshithav\source\repos\Nov\BlazorServer\BlazorServer\obj\Release\net7.0\PubTmp\Out\BlazorServer.pdb
